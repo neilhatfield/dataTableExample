@@ -1,0 +1,12 @@
+name: datatabledemo
+title: dataTableDemo
+username: njh5464
+account: njh5464
+server: rstudio-connect.tlt.psu.edu
+hostUrl: https://rstudio-connect.tlt.psu.edu:3939/__api__
+appId: 249
+bundleId: 1606
+url: https://rstudio-connect.tlt.psu.edu:3939/content/249/
+when: 1603745593.86868
+asMultiple: FALSE
+asStatic: FALSE

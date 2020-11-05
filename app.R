@@ -728,7 +728,7 @@ server <- function(input, output, session){
       searching = ', input$searching, ',
       info = ', input$info, ',
       columnDefs = list(
-        list(className = ', input$colAlign, ', targets = 1:ncol(carData))
+        list(className = "', input$colAlign, '", targets = 1:ncol(carData))
       )
     )
   )'

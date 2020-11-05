@@ -1,0 +1,12 @@
+name: dataTableExample
+title: dataTableExample
+username:
+account: neilhatfield
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3172841
+bundleId: 3825326
+url: https://neilhatfield.shinyapps.io/dataTableExample/
+when: 1604611262.13023
+asMultiple: FALSE
+asStatic: FALSE
